@@ -139,7 +139,7 @@ int main() {
     }
 
     if (!has_isolated) {
-        printf(" NONE\n;");
+        printf(" NONE");
     }
 
     printf("\n");
